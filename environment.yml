@@ -1,0 +1,13 @@
+name: synthetica
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - numpy
+  - pyemu
+  - flopy
+  - pandas
+  - pip
